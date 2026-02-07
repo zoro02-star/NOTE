@@ -1,0 +1,15 @@
+introduction to the linux shell
+linux file system permissions
+PATH hijacking
+SUID exploitation
+SUDO exploitation
+wildcard expansion exploitation
+reverse shells in linux
+unshadow ATTack
+linux system enumeration
+linux cronjob enumeration
+linux capabilities enumeration
+local service exploitation
+Linux Binary Exploitation
+Linux kernerl exploitation
+
