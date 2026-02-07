@@ -1,0 +1,19 @@
+introduction to the windows shells
+windows permissions
+reversshells in windows
+seimpersonate Privilege Exploitation
+on cross compilation
+windows services
+weak service permissions
+unquoted service path
+Dll hijacking
+UAC bypass
+Always install elevated
+files with sensitive data
+windows hashes
+stored credentials and the windows vault 
+scheduled tasks
+critical registry paths
+useful tool
+AMSI bypass
+A cheatsheet and A methodology
